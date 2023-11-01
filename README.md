@@ -101,6 +101,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+**Repository Views** ![Views](https://profile-counter.glitch.me/tempinbox/count.svg)
+
+
 [![GitHub](https://img.shields.io/github/license/ishanoshada/tempinbox)](https://github.com/ishanoshada/tempinbox)
 [![GitHub stars](https://img.shields.io/github/stars/ishanoshada/tempinbox)](https://github.com/ishanoshada/tempinbox/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/ishanoshada/tempinbox)](https://github.com/ishanoshada/tempinbox/network)
