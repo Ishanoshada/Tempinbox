@@ -20,7 +20,7 @@ from tempinbox import TempEmail
 client = TempEmail()
 
 # Generate a temporary email address with specific options
-email_address = client.generate_temp_email(domain=False, dot_gmail=True, plus_gmail=False)
+email_address = client.generate_temp_email(domain=False, dot_gmail=True, plus_gmail=False)["email"][0]
 
 # Get a list of emails for the generated address
 email_list = client.get_mail_list(email_address)
