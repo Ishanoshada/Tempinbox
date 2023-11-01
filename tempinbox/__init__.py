@@ -66,7 +66,7 @@ class TempEmail:
         try:
             message_id = mail_list["messageData"][id - 1]['messageID']
         except Exception as e:
-            return f"Error: {e} - Invalid message id"
+            return f"Error: {e} - Invalid message id or there is no content from id"
 
         url = "https://www.emailnator.com/message-list"
         headers = {
