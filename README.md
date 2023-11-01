@@ -12,6 +12,7 @@ pip install tempinbox
 
 ## Usage Example 🚀
 
+
 ```python
 from tempinbox import TempEmail
 
@@ -29,6 +30,13 @@ email_content = client.get_mail_content(email_address, id=2)
 
 print(email_content)
 ```
+
+This code snippet demonstrates how to generate a temporary email address with the following options:
+
+- `domain`: Generates an email address without an additional domain.( example@exampledomain.com )
+- `dot_gmail`: Generates an email address with a dot and 'gmail.com' (as in the example). ( ex.ex.ex@gmail.com)
+- `plus_gmail`: Generates an email address without a plus sign followed by 'gmail.com'. ( example+exam@gmail.com)
+
 
 ## Sample Output 📋
 
@@ -100,9 +108,6 @@ We welcome contributions! If you'd like to enhance TempInbox, feel free to open 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-**Repository Views** ![Views](https://profile-counter.glitch.me/tempinbox/count.svg)
-
 
 [![GitHub](https://img.shields.io/github/license/ishanoshada/tempinbox)](https://github.com/ishanoshada/tempinbox)
 [![GitHub stars](https://img.shields.io/github/stars/ishanoshada/tempinbox)](https://github.com/ishanoshada/tempinbox/stargazers)
