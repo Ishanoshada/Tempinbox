@@ -107,6 +107,9 @@ We welcome contributions! If you'd like to enhance TempInbox, feel free to open 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+
+**Repository Views** ![Views](https://profile-counter.glitch.me/tempinbox/count.svg)
+
 ---
 
 [![GitHub](https://img.shields.io/github/license/ishanoshada/tempinbox)](https://github.com/ishanoshada/tempinbox)
